@@ -11,6 +11,8 @@ public class MyReadFile
 		System.out.print((char)fis.read()+"#");
 		}
 		System.out.println("\(^-^\)Hello world!");
+		//For test branch
+		System.out.println("This is test branch!");
 	}
 	catch(Exception e){
 		/*error:File not found */
