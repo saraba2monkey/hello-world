@@ -10,7 +10,7 @@ public class MyReadFile
 		for(int i =0;i<length;i++){
 		System.out.print((char)fis.read()+"#");
 		}
-		System.out.println("\(^-^\)Hello world!");
+		System.out.println("Hello world!");
 		//For test branch
 		System.out.println("This is test branch!");
 	}
